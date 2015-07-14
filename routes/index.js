@@ -33,10 +33,6 @@ var term = process.argv[3]; //Second Argument
 */
 
 
-/* GET home page. */
-router.get('/', function(req, res) {
-  res.render('index', { title: 'Express' });
-});
 
 /*GET Hello World page. */
 router.get('/helloworld', function(req, res){
