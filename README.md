@@ -1,0 +1,1 @@
+LocateMyFood is a webapp built using Node v0.12 and github.com/olalonde/node-yelp.
